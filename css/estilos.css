@@ -42,7 +42,7 @@ nav{
 }
 
 nav > a{
-    color:#fff;
+    color:#575A5F;
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -64,13 +64,13 @@ header .textos-header{
 
 .textos-header h1{
     font-size: 50px;
-    color:#fff;
+    color:#575A5F;
 }
 
 .textos-header h2{
     font-size: 30px;
     font-weight: 300;
-    color:#fff;
+    color:#222824;
 }
 
 .wave{
