@@ -284,6 +284,12 @@ footer{
     color: #9e9797;
 }
 
+.credits{
+        color: #A7A2A9;
+        font-size: 20px;
+        text-align: center;
+    }
+
 @media screen and (max-width:900px){
     header{
         background-position: center;
