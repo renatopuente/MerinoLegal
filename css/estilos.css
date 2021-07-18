@@ -433,6 +433,12 @@ footer{
         text-align: center;
     }
     
+    .creditos{
+        color: #A7A2A9;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
     .link {
   color: A7A2A9;
   background-color: transparent;
