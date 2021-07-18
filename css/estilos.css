@@ -439,6 +439,13 @@ footer{
         text-align: center;
     }
     
+    nav > a{
+    color:#575A5F;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+    
     .link {
   color: A7A2A9;
   background-color: transparent;
