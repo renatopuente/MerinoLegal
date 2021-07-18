@@ -426,4 +426,10 @@ footer{
         font-size: 20px;
         text-align: center;
     }
+    
+    a:link {
+  color: A7A2A9;
+  background-color: transparent;
+  text-decoration: none;
+}
 }
