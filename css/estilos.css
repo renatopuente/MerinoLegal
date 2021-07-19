@@ -183,7 +183,7 @@ main .sobre-nosotros{
 }
 
 .cards .card{
-    background: #A7A2A9;
+    background: #575A5F;
     display: flex;
     width: 46%;
     height: 200px;
@@ -281,11 +281,11 @@ footer{
     text-align: center;
     font-size: 24px;
     margin: 20px 0 0 0;
-    color: #9e9797;
+    color: #F5F7F6;
 }
 
 .credits{
-        color: #A7A2A9;
+        color: #F5F7F6;
         font-size: 20px;
         text-align: center;
     }
