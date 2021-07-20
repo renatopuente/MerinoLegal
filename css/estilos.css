@@ -56,7 +56,7 @@ header .textos-header{
     display: flex;
     height: 200px;
     width: 100%;
-    align-items: center;
+    align-items: top;
     justify-content: center;
     flex-direction: column;
     text-align: center;
