@@ -94,7 +94,7 @@ main .sobre-nosotros{
 }
 
 .sobre-nosotros .contenido-textos{
-    width: 48%;
+    width: 40%;
 }
 
 .contenido-textos h3{
@@ -102,7 +102,7 @@ main .sobre-nosotros{
 }
 
 .contenido-textos h3 span{
-    background: #4d0686;
+    background: #222824;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
